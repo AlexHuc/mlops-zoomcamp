@@ -50,7 +50,7 @@ To get the most out of this course, you should have prior experience with:
 - Batch job monitoring with Prefect, MongoDB, and Evidently
 - Homework
 
-Module 6: Best Practices
+## Module 6: Best Practices
 - Unit and integration testing
 - Linting, formatting, and pre-commit hooks
 - CI/CD with GitHub Actions
