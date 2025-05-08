@@ -58,5 +58,4 @@ To get the most out of this course, you should have prior experience with:
 - Homework
 
 ## Final Project
-
-End-to-end project integrating all course concepts
+- End-to-end project integrating all course concepts
