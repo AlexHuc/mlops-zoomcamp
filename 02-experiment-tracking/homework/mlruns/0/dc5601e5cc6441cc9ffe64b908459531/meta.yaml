@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexandru.huc/Downloads/Development/GitHub/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/dc5601e5cc6441cc9ffe64b908459531/artifacts
+end_time: 1746814583198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc5601e5cc6441cc9ffe64b908459531
+run_name: wistful-cod-34
+run_uuid: dc5601e5cc6441cc9ffe64b908459531
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746814571463
+status: 3
+tags: []
+user_id: alexandru.huc

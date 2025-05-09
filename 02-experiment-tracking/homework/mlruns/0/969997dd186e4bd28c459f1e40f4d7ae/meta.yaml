@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/alexandru.huc/Downloads/Development/GitHub/mlops-zoomcamp/02-experiment-tracking/homework/mlruns/0/969997dd186e4bd28c459f1e40f4d7ae/artifacts
+end_time: 1746817141593
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 969997dd186e4bd28c459f1e40f4d7ae
+run_name: abrasive-kite-857
+run_uuid: 969997dd186e4bd28c459f1e40f4d7ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1746817129514
+status: 3
+tags: []
+user_id: alexandru.huc
