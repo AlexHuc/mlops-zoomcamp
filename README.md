@@ -1,6 +1,8 @@
 # MLOps Zoomcamp Project
 Welcome to my MLOps Zoomcamp repository. This project demonstrates the application of Machine Learning Operations (MLOps) practices learned throughout the MLOps Zoomcamp course.
 
+![MLOps Logo](./01-intro/imgs/mlops_logo.png)
+
 # Overview
 This repository contains code, configurations, and documentation for implementing MLOps best practices with a focus on taxi trip duration prediction. The project showcases:
 

@@ -1,5 +1,6 @@
 # Ignore my local environment folder
 mlops_venv/
+mlops_venv_py396/
 
 
 # Byte-compiled / optimized / DLL files
